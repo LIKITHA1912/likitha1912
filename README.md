@@ -1,22 +1,22 @@
 ### Hi there 👋
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)](https://www.youtube.com/@ms.poonamchauhan743)
-[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
-[![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Likitha-red)](https://www.youtube.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Likitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likithadevagiri/)](https://www.linkedin.com/in/likithadevagiri/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Likitha-yellow)]()
+[![Website Badge](https://img.shields.io/badge/WebSite-Likitha-green)]()
 
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/LIKITHA1912/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=LIKITHA1912&column=7"/>
   </a>
 </div>
 
